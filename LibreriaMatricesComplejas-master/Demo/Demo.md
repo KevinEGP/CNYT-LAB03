@@ -2,7 +2,7 @@
 
 ## 1. Sistema Clásico
 
-<img src = "images/Sistema1.png"
+<img src = "imagenes/Sistema1.png"
      style = "float:center"
      width = "80%"/>
 
